@@ -1,0 +1,22 @@
+# Signpost
+
+> Signpost provides AI-powered and live virtual receptionist / answering services for small businesses, with a focus on home-services contractors (HVAC, plumbing, electrical, roofing). It captures and responds to inbound calls, texts, and messages across phone, text, Angi, Thumbtack, and Facebook, unifies them in a single messaging inbox, and integrates with CRM/scheduling systems. Signpost is backed by GV (Google Ventures). It publishes no public developer API surface as of this profile.
+
+## Company
+- [Signpost website](https://www.signpost.com/): Product overview — AI Voice Receptionist, Live Receptionist (24/7), instant text responders, unified inbox.
+- [Pricing](https://www.signpost.com/pricing/): Plans and pricing.
+- [Get a demo](https://www.signpost.com/get-demo-now/): Request a demo / sign up.
+- [Login (Messaging Hub)](https://app.signpost.com): Customer application.
+
+## Docs & Support
+- [Help Center](https://help.signpost.com): Call forwarding instructions, solutions, settings, FAQs.
+- [Blog](https://www.signpost.com/blog/): Small-business and home-services marketing content.
+- [ROI Calculator](https://www.signpost.com/signpost-roi-calculator/): Estimate return on the answering service.
+
+## Security & Legal
+- [Security & Compliance](https://www.signpost.com/security/): SOC 2, ISO 27001:2013, CCPA; security contact information_security@signpost.com.
+- [Terms & Conditions](https://www.signpost.com/termsandconditions/)
+- [Privacy Policy](https://www.signpost.com/privacypolicy/)
+
+## Notes
+- No public API, OpenAPI/Swagger specification, SDKs, MCP server, or /.well-known/ discovery documents were found. developer.signpost.com redirects to a Hibu/Signpost login (developer.ha.hibu.com), not a public API portal.

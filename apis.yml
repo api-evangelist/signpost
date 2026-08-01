@@ -1,8 +1,25 @@
 aid: signpost
 name: Signpost
-description: 'Signpost is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Signpost provides AI-powered and live virtual receptionist and answering
+  services for small businesses, with a focus on home-services contractors such as
+  HVAC, plumbing, electrical, and roofing companies. The platform captures and responds
+  to inbound calls, texts, and messages across phone, text, Angi, Thumbtack, and Facebook,
+  unifies every conversation in a single messaging inbox, and integrates with CRM and
+  scheduling systems so businesses never miss a lead. Signpost is backed by GV (Google
+  Ventures). As of this profile it publishes no public developer API surface; this
+  company record captures its identity, security posture, and compliance program.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.signpost.com/wp-content/uploads/2021/06/signpost-logo.png
 url: https://raw.githubusercontent.com/api-evangelist/signpost/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Enterprise
+- Virtual Receptionist
+- Answering Service
+- Small Business
+- Home Services
+- Communications
+- CRM
+- Lead Management
+- Messaging
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +49,41 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://signpost.com
+  url: https://www.signpost.com
+- type: Pricing
+  url: https://www.signpost.com/pricing/
+- type: SignUp
+  url: https://www.signpost.com/get-demo-now/
+- type: Login
+  url: https://app.signpost.com
+- type: Support
+  url: https://help.signpost.com
+- type: HelpCenter
+  url: https://help.signpost.com
+- type: Blog
+  url: https://www.signpost.com/blog/
+- type: TermsOfService
+  url: https://www.signpost.com/termsandconditions/
+- type: PrivacyPolicy
+  url: https://www.signpost.com/privacypolicy/
+- type: Security
+  url: https://www.signpost.com/security/
+- type: Compliance
+  url: https://www.signpost.com/security/
+- type: TrustCenter
+  url: security/signpost-trust-center.yml
+- type: VulnerabilityDisclosure
+  url: security/signpost-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/signpost-domain-security.yml
+- type: Conformance
+  url: conformance/signpost-conformance.yml
+- type: WellKnown
+  url: well-known/signpost-well-known.yml
+- type: LLMsTxt
+  url: llms/signpost-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1
