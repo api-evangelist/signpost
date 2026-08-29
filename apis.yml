@@ -8,6 +8,17 @@ description: 'Signpost provides AI-powered and live virtual receptionist and ans
   scheduling systems so businesses never miss a lead. Signpost is backed by GV (Google
   Ventures). As of this profile it publishes no public developer API surface; this
   company record captures its identity, security posture, and compliance program.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
