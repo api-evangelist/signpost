@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/signpost/integrations
+- https://n8n.io/integrations/signpost/
+- https://composio.dev/toolkits/signpost
+- https://monid.ai/tools/signpost
+checked:
+- https://composio.dev/toolkits/signpost
+- https://monid.ai/tools/signpost
+- https://n8n.io/integrations/signpost/
+- https://zapier.com/apps/signpost/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
